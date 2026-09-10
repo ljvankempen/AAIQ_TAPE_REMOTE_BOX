@@ -1,0 +1,5 @@
+{
+  "product": "AAIQ TAPE Remote",
+  "latest_version": "0.4.28",
+  "firmware": "https://raw.githubusercontent.com/ljvankempen/AAIQ_TAPE_REMOTE_BOX/main/firmware/v0.4.28/main.py"
+}
